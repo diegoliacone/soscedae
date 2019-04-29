@@ -1,0 +1,17 @@
+PROCESSED on Wed, 17 Apr 2019 14:42:45 +0000
+/wp-content/themes/wpbrasil-odin-3fa0943/assets/css/style.css
+/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-site.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/post-grid-carousel-ultimate/assets/css/sidebar.css
+/wp-content/plugins/post-grid-carousel-ultimate/assets/css/reset.css
+/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+/wp-content/plugins/elementor/assets/css/frontend.min.css
+/wp-content/plugins/elementor-pro/assets/css/frontend.min.css
+/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css
+/wp-content/uploads/elementor/css/global.css
+/wp-content/uploads/elementor/css/post-16.css
+/wp-content/uploads/elementor/css/post-26.css
+/wp-content/uploads/elementor/css/post-111.css
+PROCESSED from https://soscedae.com.br/fatofake/o-presidente-da-cedae-helio-cabral-afirma-que-o-criterio-usado-para-cortar-54-funcionarios/

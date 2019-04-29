@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Work Sans', sans-serif;
+  color: #363940;
+}
+
+p {
+  color: #6e7387;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+
+.pgcu_container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+.pgcu_post .post_title h4 {
+  font-size: 20px;
+  font-weight: 500;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  line-height: 26px;
+}
+
+
+a.btn:hover {
+  background: #f42156;
+  color: #fff;
+}
+
+@media (min-width: 576px) {
+  .pgcu_container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .pgcu_container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .pgcu_container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .pgcu_container {
+    max-width: 1140px;
+  }
+}
+
+
+
+/*# sourceMappingURL=maps/reset.css.map */
